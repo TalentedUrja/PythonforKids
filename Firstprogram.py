@@ -17,6 +17,7 @@ N = int(N)
 Sum = 0
 for index in range(1,N+1):
     Sum = Sum + index
+    
 print("The sum is equal to ", Sum)
     
     
